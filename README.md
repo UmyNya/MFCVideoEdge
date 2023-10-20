@@ -37,4 +37,5 @@ Eve和くっか是神，快去看↑
 
 ## License
 
-GNU GPLv3
+
+[GNU General Public License v3.0](LICENSE.txt)
