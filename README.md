@@ -27,6 +27,14 @@ P.S.
 
 PRs accepted.
 
+示例视频素材版权归原作者：
+
+【Eve - 花嵐】https://youtu.be/I3ZozsgDDqI
+
+Eve和くっか是神，快去看↑
+
+如果侵权请联系我删除。
+
 ## License
 
 GNU GPLv3
